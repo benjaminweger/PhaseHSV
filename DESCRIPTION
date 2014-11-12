@@ -1,0 +1,10 @@
+Package: PhaseHSV
+Title: Handle phase to HSV colors.
+Version: 0.1
+Authors@R: person("Jake", "Yeung", email = "jake.yeung@epfl.ch",
+    role = c("aut", "cre"))
+Description: Convert phase angles to HSV "hue" colors
+Depends:
+    R (>= 3.1.1)
+License: MIT License
+LazyData: true
